@@ -12,3 +12,8 @@ print(model.predict(["I feel good today"]))
 print(model.predict(["우리집 고양이는 세상에서 제일 귀엽습니다"]))
 ```
 단 4줄의 코드만으로 어떤 환경에서든, 제가 fine-tuning한 모델을 사용해보실 수 있습니다.
+
+## Requirements
+```
+simpletransfomers
+```
