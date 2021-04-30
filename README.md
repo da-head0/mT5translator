@@ -16,6 +16,31 @@ print(model.predict(["우리집 고양이는 세상에서 제일 귀엽습니다
 ```
 단 4줄의 코드만으로 어떤 환경에서든, 제가 fine-tuning한 모델을 사용해보실 수 있습니다.
 
+## 번역 예시
+```
+kor> 너 참 예쁘다 
+eng> you look pretty 
+```
+```
+kor> 우리집 고양이가 세상에서 제일 귀엽습니다
+eng> my cat is the most cute in the world 
+```
+the cutest 가 일반적이지만 The most cute란 표현도 쓰이긴 합니다.
+
+```
+kor> 적당히 바람이 시원해 기분이 좋아요
+eng> I feel good. I feel a good wind.
+```
+```
+kor> 네가 밥 먹으러 가자고 했잖아
+eng> you told me to go eat.
+```
+
+## 성능
+|    | Model    | Dataset    | size   |   BLEU |
+|---:|:---------|:-----------|:-------|-------:|
+|  0 | mT5-base | aihub+subs | 51만   |  18.03 |
+
 ## Requirements
 ```
 simpletransfomers
