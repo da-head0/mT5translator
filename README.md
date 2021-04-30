@@ -1,4 +1,4 @@
-# youreditor
+# mT5 Translator kor-eng
 ---
 [AI Hub의 구어체](https://aihub.or.kr/aidata/87) & 265편의 넷플릭스 자막을 학습시켜 mT5 모델로 만든 자연스러운 번역기
 
