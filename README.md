@@ -1,7 +1,6 @@
 # mT5 Translator kor-eng
----
 [AI Hub의 구어체](https://aihub.or.kr/aidata/87) & 265편의 넷플릭스 자막을 학습시켜 mT5 모델로 만든 자연스러운 번역기
-
+---
 [mT5](https://arxiv.org/abs/2010.11934) : 2020년 10월 구글에서 발표한 101개국의 언어로 사전학습시킨 딥러닝 모델입니다. 
 
 huggingface를 바탕으로 한 [simpletransfomers](https://github.com/ThilinaRajapakse/simpletransformers) 라이브러리를 활용하여, 
