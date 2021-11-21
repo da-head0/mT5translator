@@ -24,7 +24,6 @@ eng> you look pretty
 ```
 kor> 우리집 고양이가 세상에서 제일 귀엽습니다
 eng> my cat is the most cute in the world 
-# the cutest 가 일반적이지만 The most cute란 표현도 쓰이긴 합니다.
 ```
 ```
 kor> 적당히 바람이 시원해 기분이 좋아요
